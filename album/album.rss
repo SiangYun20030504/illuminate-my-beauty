@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>album</title>
+   	<link>..</link>
+        <generator>jAlbum 30.2</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>ja-theme</title>
+            <link>slides/ja-theme.jpg</link>
+            <pubDate>Tue, 30 May 2023 23:47:45 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/ja-theme.jpg" width="124" height="62"/>
+            <media:content type="image/jpeg" url="slides/ja-theme.jpg" width="1200" height="142"/>
+            <guid isPermaLink="false">slides/ja-theme.jpg</guid>
+        </item>
+    </channel>
+</rss>
